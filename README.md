@@ -22,9 +22,6 @@ Let the points where t1 and t2 touch the ellipse be R and S.
 
 For how many lattice points P is angle RPS greater than 45 degrees?
 
-## Solução
-
-
 ## Fontes e Ferramentas utilizadas
 
 A unica ferramenta necessária é o python, porém também foram usadas as ferramentas online GeoGebra E WolframAlpha
@@ -40,13 +37,13 @@ Para solucionar o problema também foram usados conhecimentos e fórmulas dispon
 * https://mundoeducacao.uol.com.br/matematica/angulo-formado-entre-duas-retas.htm
 * https://pir2.forumeiros.com/t67218-as-equacoes-das-retas-tangente-a-elipse
 
-## Como Iniciar
+## Como Usar
 
-Para utilizar o programa basta ter python 3 instalado
-e executar o arquivo .py 
+Para utilizar o programa basta ter python 3.9.5 instaladoe executar o arquivo .py a 
+partir do terminal.
 
 ```crystal
-$python3 "Arquivo".py
+python3 projecteuler246.py
 ```
 
 ## Autores
