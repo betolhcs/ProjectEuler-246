@@ -26,9 +26,6 @@ For how many lattice points P is angle RPS greater than 45 degrees?
 
 A solução detalhada pode ser encontrada em [Solução](calculos.pdf), porém falando brevemente sobre as etapas realizadas temos:
 * Primeiro foi feita a descrição em fórmulas matemáticas das formas apresentadas
-
-![ElipseDentroDeUmCirculo](imagens/geometriainicial.PNG)
-
 * Em seguida foi feita a mudança de cordenadas para centralizar a elipse e facilitar os cálculos e posteriormente a lógica da parte computacional
 
 ![ElipseSendoDeslocada](imagens/mudancadecordenadas.PNG)
