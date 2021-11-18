@@ -22,9 +22,7 @@ FOTO ORIGINAL
 
 For how many lattice points P is angle RPS greater than 45 degrees?
 
-## Metodos usados
-
-
+## Solução
 
 
 ## Fontes e Ferramentas utilizadas
