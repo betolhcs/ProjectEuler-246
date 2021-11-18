@@ -17,7 +17,7 @@ The locus of the points that are equidistant from G and c form an ellipse e.
 From a point P outside e the two tangents t1 and t2 to the ellipse are drawn.
 Let the points where t1 and t2 touch the ellipse be R and S. 
 
-FOTO ORIGINAL
+![alttext](imagens/original.gif)
 
 
 For how many lattice points P is angle RPS greater than 45 degrees?
@@ -45,12 +45,13 @@ Para solucionar o problema também foram usados conhecimentos e fórmulas dispon
 Para utilizar o programa basta ter python 3 instalado
 e executar o arquivo .py 
 
+```crystal
 $python3 "Arquivo".py
+```
 
 ## Autores
 
 * **Luís Humberto Chaves Senno** - [betolhcs](https://github.com/betolhcs)
-Veja também a lista de [contribuidores](https://github.com/your/project/contributors) que participaram nesse projeto.
 
 
 
