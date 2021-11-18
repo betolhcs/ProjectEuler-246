@@ -17,7 +17,7 @@ The locus of the points that are equidistant from G and c form an ellipse e.
 From a point P outside e the two tangents t1 and t2 to the ellipse are drawn.
 Let the points where t1 and t2 touch the ellipse be R and S. 
 
-![alttext](imagens/original.gif)
+![alttext](imagens/original.png)
 
 
 For how many lattice points P is angle RPS greater than 45 degrees?
