@@ -5,85 +5,54 @@ O código e o arquivo pdf presentes no repositório apresentam a solução compu
 
 ## Problema
 
-Aqui colocamos instruções para configurarmos um ambiente local para desenvolvimento e testes. Veja as notas de deploy para instruções de como fazer o deploy do sistema para produção.
+O problema resolvido foi o de número 246, que possuí um indice de dificuldade de 80%, cujo enunciado pode ser visto abaixo.
 
-### Pré requisitos
+Problem 246
+A definition for an ellipse is:
+Given a circle c with centre M and radius r and a point G such that d(G,M)<r, the locus of the points that are equidistant from c and G form an ellipse. 
 
-Dependências necessárias e como instalá-las
+Given are the points M(-2000,1500) and G(8000,1500).
+Given is also the circle c with centre M and radius 15000.
+The locus of the points that are equidistant from G and c form an ellipse e.
+From a point P outside e the two tangents t1 and t2 to the ellipse are drawn.
+Let the points where t1 and t2 touch the ellipse be R and S. 
 
-```
-Dê exemplos
-```
+FOTO ORIGINAL
 
-### Instalando
 
-Uma série de exemplos passo a passo que ensinam a configurar um ambiente de desenvolvimento.
+For how many lattice points P is angle RPS greater than 45 degrees?
 
-Diga o que será o passo
+## Metodos usados
 
-```
-Dê o exemplo
-```
 
-E repita
 
-```
-Até acabar
-```
 
-Termine com um exemplo de um teste rápido do sistema
+## Fontes e Ferramentas utilizadas
 
-## Rodando os testes
+A unica ferramenta necessária é o python, porém também foram usadas as ferramentas online GeoGebra E WolframAlpha
+* [Python](https://www.python.org/) - A linguagem de programação usada.
+* [GeoGebra](https://www.geogebra.org/?lang=pt) - Uma ferramenta utilizada para visualizar a geometria do problema.
+* [WolframAlpha](https://www.wolframalpha.com/) - Uma ferramenta utilizada para simplificar, expandir e manipular equações.
 
-Explique como rodar os testes automatizados para este sistema
+Para solucionar o problema também foram usados conhecimentos e fórmulas disponíveis nas seguintes fontes:
+* [Python](https://www.python.org/) - A linguagem de programação usada.
+* [GeoGebra](https://www.geogebra.org/?lang=pt) - Uma ferramenta utilizada para visualizar a geometria do problema.
+* [WolframAlpha](https://www.wolframalpha.com/) - Uma ferramenta utilizada para simplificar, expandir e manipular equações.
+* [Python](https://www.python.org/) - A linguagem de programação usada.
+* [GeoGebra](https://www.geogebra.org/?lang=pt) - Uma ferramenta utilizada para visualizar a geometria do problema.
+* [WolframAlpha](https://www.wolframalpha.com/) - Uma ferramenta utilizada para simplificar, expandir e manipular equações.
 
-### Quebre em teste de ponta a ponta
+## Como Iniciar
 
-Explique o que é testado e porque
+Para utilizar o programa basta ter python 3 instalado
+e executar o arquivo .py 
 
-```
-Dê um exemplo
-```
-
-### E testes de estilo de código
-
-Explique o que é testado e porque
-
-```
-Dê um exemplo
-```
-
-## Deploy
-
-Adicione notas para deploy para produção
-
-## Ferramentas de build
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contribuindo
-
-Por favor leia [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) para detalhes do nosso código de conduta e do processo de submissão de PR's para nós.
-
-## Versionamento
-
-Usamos [SemVer](http://semver.org/) para versionamento. Para versões disponíveis, veja as [tags nesse repositório](https://github.com/your/project/tags). 
+$python3 "Arquivo".py
 
 ## Autores
 
-* **Billie Thompson** - *Trabalho Inicial* - [PurpleBooth](https://github.com/PurpleBooth)
-* **Mateus Berardo** - *Tradução para português* - [MatTerra](https://github.com/MatTerra)
+* **Luís Humberto Chaves Senno** - [betolhcs](https://github.com/betolhcs)
 Veja também a lista de [contribuidores](https://github.com/your/project/contributors) que participaram nesse projeto.
 
-## Licença
 
-Esse projeto está licenciado sob uma licença do MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes
-
-## Agradecimentos
-
-* Menção a todos que contribuíram para o repo
-* Inspirações
-* etc
 
