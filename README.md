@@ -5,7 +5,7 @@ O código e o arquivo pdf presentes no repositório apresentam a solução compu
 
 ## Problema
 
-O problema resolvido foi o de número 246, que possuí um indice de dificuldade de 80%, cujo enunciado pode ser visto abaixo.
+O problema resolvido foi o de número 246, que possui um indice de dificuldade de 80%, cujo enunciado pode ser visto abaixo.
 
 Problem 246
 A definition for an ellipse is:
