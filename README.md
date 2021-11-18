@@ -52,7 +52,7 @@ Para solucionar o problema também foram usados conhecimentos e fórmulas dispon
 
 ## Como Usar
 
-Para utilizar o programa basta ter python 3.9.5 instaladoe executar o arquivo .py a partir do terminal.
+Para utilizar o programa basta ter python 3.9.5 instalado e executar o arquivo .py a partir do terminal.
 
 ```crystal
 python3 projecteuler246.py
