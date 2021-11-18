@@ -33,12 +33,12 @@ A unica ferramenta necessária é o python, porém também foram usadas as ferra
 * [WolframAlpha](https://www.wolframalpha.com/) - Uma ferramenta utilizada para simplificar, expandir e manipular equações.
 
 Para solucionar o problema também foram usados conhecimentos e fórmulas disponíveis nas seguintes fontes:
-* [Python](https://www.python.org/) - A linguagem de programação usada.
-* [GeoGebra](https://www.geogebra.org/?lang=pt) - Uma ferramenta utilizada para visualizar a geometria do problema.
-* [WolframAlpha](https://www.wolframalpha.com/) - Uma ferramenta utilizada para simplificar, expandir e manipular equações.
-* [Python](https://www.python.org/) - A linguagem de programação usada.
-* [GeoGebra](https://www.geogebra.org/?lang=pt) - Uma ferramenta utilizada para visualizar a geometria do problema.
-* [WolframAlpha](https://www.wolframalpha.com/) - Uma ferramenta utilizada para simplificar, expandir e manipular equações.
+* https://www.educamaisbrasil.com.br/enem/matematica/coeficiente-angular
+* https://mundoeducacao.uol.com.br/matematica/elipse.htm
+* https://www.w3schools.com/python/module_math.asp
+* https://stackoverflow.com/questions/18583214/calculate-angle-of-triangle-python
+* https://mundoeducacao.uol.com.br/matematica/angulo-formado-entre-duas-retas.htm
+* https://pir2.forumeiros.com/t67218-as-equacoes-das-retas-tangente-a-elipse
 
 ## Como Iniciar
 
