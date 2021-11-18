@@ -37,7 +37,7 @@ A solução detalhada pode ser encontrada em [Solução](calculos.pdf), porém f
 
 ## Fontes e Ferramentas utilizadas
 
-A unica ferramenta necessária é o python, porém também foram usadas as ferramentas online GeoGebra E WolframAlpha
+A unica ferramenta necessária é o python, porém também foram usadas as ferramentas online GeoGebra e WolframAlpha
 * [Python](https://www.python.org/) - A linguagem de programação usada.
 * [GeoGebra](https://www.geogebra.org/?lang=pt) - Uma ferramenta utilizada para visualizar a geometria do problema.
 * [WolframAlpha](https://www.wolframalpha.com/) - Uma ferramenta utilizada para simplificar, expandir e manipular equações.
