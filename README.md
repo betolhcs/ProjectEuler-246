@@ -26,12 +26,12 @@ For how many lattice points P is angle RPS greater than 45 degrees?
 
 A solução detalhada pode ser encontrada em [Solução](calculos.pdf), porém falando brevemente sobre as etapas realizadas temos:
 * Primeiro foi feita a descrição em fórmulas matemáticas das formas apresentadas
-![ElipseDentroDeUmCirculo](imagens/geometriainicial.png)
+![ElipseDentroDeUmCirculo](imagens/geometriainicial.PNG)
 * Em seguida foi feita a mudança de cordenadas para centralizar a elipse e facilitar os cálculos e posteriormente a lógica da parte computacional
-![ElipseSendoDeslocada](imagens/mudancadecordenadas.png)
+![ElipseSendoDeslocada](imagens/mudancadecordenadas.PNG)
 * Depois foram feitos manipulações algébricas para obter fórmulas que serão usadas posteriomente no programa em python para achar os pontos e verificar a validez
 * Alem disso também foram cálculados os limites superiores em ambos os eixos para verificar os pontos ao longo dos eixos e otimizar a execução do programa 
-![LimitesEmXeY](imagens/limites.png)
+![LimitesEmXeY](imagens/limites.PNG)
 
 ## Fontes e Ferramentas utilizadas
 
